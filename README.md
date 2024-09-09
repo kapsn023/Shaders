@@ -1,1 +1,1 @@
-# Assignment 5: Artistic Rendering
+# Experiments with Shaders
